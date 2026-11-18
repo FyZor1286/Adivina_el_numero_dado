@@ -34,7 +34,7 @@ public class Main extends Application {
         root.setStyle("-fx-padding: 20px; -fx-alignment: center;");
 
         Scene scene = new Scene(root, 300, 300);
-        stage.setTitle("Piedra, Papel o Tijera");
+        stage.setTitle("Adivina el numero");
         stage.setScene(scene);
         stage.show();
     }
